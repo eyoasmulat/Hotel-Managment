@@ -6,7 +6,7 @@ export default function Footer() {
           <div className="col-md-6 col-lg-4">
             <div className="bg-primary rounded p-4">
               <a href="/">
-                <h1 className="text-white text-uppercase mb-3">Hotelier</h1>
+                <h1 className="text-white text-uppercase mb-3">ALYAH</h1>
               </a>
               <p className="text-white mb-0">
                 Download <a className="text-dark fw-medium" href="https://htmlcodex.com/hotel-html-template-pro" target="_blank" rel="noreferrer">Hotelier – Premium Version</a>, build a professional website for your hotel business and grab the attention of new visitors upon your site’s launch.

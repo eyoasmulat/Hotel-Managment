@@ -19,7 +19,7 @@ export default function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg bg-dark navbar-dark p-3 p-lg-0">
       <Link to="/" className="navbar-brand d-block d-lg-none" onClick={closeMenu}>
-        <h1 className="m-0 text-primary text-uppercase">Hotelier</h1>
+        <h1 className="m-0 text-primary text-uppercase">AZEWA</h1>
       </Link>
       <button
         type="button"

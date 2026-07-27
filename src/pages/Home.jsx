@@ -49,8 +49,8 @@ export default function Home() {
           <div className="row g-5 align-items-center">
             <div className="col-lg-6">
               <h6 className="section-title text-start text-primary text-uppercase">About Us</h6>
-              <h1 className="mb-4">Welcome to <span className="text-primary text-uppercase">Hotelier</span></h1>
-              <p className="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet.</p>
+              <h1 className="mb-4">Welcome to <span className="text-primary text-uppercase">AZEWA</span></h1>
+              <p className="mb-4">Azewa Hotel አዝዋ ሆቴል is a charming establishment nestled in the heart of town, making it an ideal spot for both locals and travelers. Its proximity to the Bahirdar International Stadium adds to its appeal, providing easy access to various events. Guests rave about the delicious local cuisine served at the hotel, particularly their famous tegabino dish.</p>
               <div className="row g-3 pb-4">
                 {['Rooms', 'Staffs', 'Clients'].map((item, index) => (
                   <div key={item} className="col-sm-4 wow fadeIn" data-wow-delay={`${0.1 + index * 0.2}s`}>
