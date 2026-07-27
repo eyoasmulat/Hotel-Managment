@@ -6,7 +6,7 @@ export default function Footer() {
           <div className="col-md-6 col-lg-4">
             <div className="bg-primary rounded p-4">
               <a href="/">
-                <h1 className="text-white text-uppercase mb-3">ALYAH</h1>
+                <h1 className="text-white text-uppercase mb-3">AZEWA</h1>
               </a>
               <p className="text-white mb-0">
                 Download <a className="text-dark fw-medium" href="https://htmlcodex.com/hotel-html-template-pro" target="_blank" rel="noreferrer">Hotelier – Premium Version</a>, build a professional website for your hotel business and grab the attention of new visitors upon your site’s launch.
@@ -15,9 +15,9 @@ export default function Footer() {
           </div>
           <div className="col-md-6 col-lg-3">
             <h6 className="section-title text-start text-primary text-uppercase mb-4">Contact</h6>
-            <p className="mb-2"><i className="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-            <p className="mb-2"><i className="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-            <p className="mb-2"><i className="fa fa-envelope me-3"></i>info@example.com</p>
+            <p className="mb-2"><i className="fa fa-map-marker-alt me-3"></i>Bahir Dar,Ethiopia</p>
+            <p className="mb-2"><i className="fa fa-phone-alt me-3"></i>+251 918 047 678</p>
+            <p className="mb-2"><i className="fa fa-envelope me-3"></i>azewa@gmail.com</p>
             <div className="d-flex pt-2">
               <a className="btn btn-outline-light btn-social" href="https://twitter.com" target="_blank" rel="noreferrer"><i className="fab fa-twitter"></i></a>
               <a className="btn btn-outline-light btn-social" href="https://facebook.com" target="_blank" rel="noreferrer"><i className="fab fa-facebook-f"></i></a>
@@ -51,8 +51,8 @@ export default function Footer() {
         <div className="copyright">
           <div className="row">
             <div className="col-md-6 text-center text-md-start mb-3 mb-md-0">
-              &copy; <a className="border-bottom" href="#">Your Site Name</a>, All Right Reserved.
-              <br />Designed By <a className="border-bottom" href="https://htmlcodex.com" target="_blank" rel="noreferrer">HTML Codex</a>
+              &copy; <a className="border-bottom" href="#">Azewa Hotel</a>, All Right Reserved.
+              
             </div>
             <div className="col-md-6 text-center text-md-end">
               <div className="footer-menu">

@@ -7,7 +7,7 @@ export default function Header() {
       <div className="row gx-0">
         <div className="col-lg-3 bg-dark d-none d-lg-block">
           <Link to="/" className="navbar-brand w-100 h-100 m-0 p-0 d-flex align-items-center justify-content-center">
-            <h1 className="m-0 text-primary text-uppercase ">ALYAH</h1>
+            <h1 className="m-0 text-primary text-uppercase ">AZEWA</h1>
           </Link>
         </div>
         <div className="col-lg-9">
@@ -15,11 +15,11 @@ export default function Header() {
             <div className="col-lg-7 px-5 text-start">
               <div className="h-100 d-inline-flex align-items-center py-2 me-4">
                 <i className="fa fa-envelope text-primary me-2"></i>
-                <p className="mb-0">info@example.com</p>
+                <p className="mb-0">Azewa@gmail.com</p>
               </div>
               <div className="h-100 d-inline-flex align-items-center py-2">
                 <i className="fa fa-phone-alt text-primary me-2"></i>
-                <p className="mb-0">+012 345 6789</p>
+                <p className="mb-0">+251 918 047 678</p>
               </div>
             </div>
             <div className="col-lg-5 px-5 text-end">

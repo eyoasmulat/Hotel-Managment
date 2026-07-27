@@ -30,9 +30,9 @@ export default function Room() {
           </div>
           <div className="row g-4">
             {[
-              { title: 'Junior Suite', image: '/assets/img/room-1.jpg' },
-              { title: 'Executive Suite', image: '/assets/img/room-2.jpg' },
-              { title: 'Super Deluxe', image: '/assets/img/room-3.jpg' },
+              { title: 'Single Bedroom', image: '/assets/img/room-1.jpg' },
+              { title: 'Two-Bedroom', image: '/assets/img/room-2.jpg' },
+              { title: 'Hall Room (Living Room)', image: '/assets/img/room-3.jpg' },
             ].map((room, index) => (
               <div key={room.title} className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay={`${0.1 + index * 0.2}s`}>
                 <div className="room-item shadow rounded overflow-hidden">
