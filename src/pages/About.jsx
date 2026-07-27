@@ -26,8 +26,8 @@ export default function About() {
           <div className="row g-5 align-items-center">
             <div className="col-lg-6">
               <h6 className="section-title text-start text-primary text-uppercase">About Us</h6>
-              <h1 className="mb-4">Welcome to <span className="text-primary text-uppercase">Hotelier</span></h1>
-              <p className="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet.</p>
+              <h1 className="mb-4">Welcome to <span className="text-primary text-uppercase">AZEWA</span></h1>
+              <p className="mb-4">Azewa Hotel አዝዋ ሆቴል is a lovely hotel located near the Bahirdar international stadium, offering comfort to both locals and tourists. Guests praise the delicious foods served at the hotel, particularly their tegabino dish. While some mention the lack of internet as a downside, overall, visitors appreciate the beautiful setting and friendly staff.</p>
               <div className="row g-3 pb-4">
                 {[{ icon: 'fa-hotel', label: 'Rooms' }, { icon: 'fa-users-cog', label: 'Staffs' }, { icon: 'fa-users', label: 'Clients' }].map((item, index) => (
                   <div key={item.label} className="col-sm-4 wow fadeIn" data-wow-delay={`${0.1 + index * 0.2}s`}>
