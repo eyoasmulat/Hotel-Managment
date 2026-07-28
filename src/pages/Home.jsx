@@ -9,7 +9,7 @@ export default function Home() {
         <div id="header-carousel" className="carousel slide" data-bs-ride="carousel">
           <div className="carousel-inner">
             <div className="carousel-item active">
-              <img className="w-100" src="/assets/img/carousel-1.jpg" alt="Image" />
+              <img className="w-100" src="/assets/img/azwa5.jpg" alt="Image" />
               <div className="carousel-caption d-flex flex-column align-items-center justify-content-center">
                 <div className="p-3" style={{ maxWidth: 700 }}>
                   <h6 className="section-title text-white text-uppercase mb-3 animated slideInDown">Luxury Living</h6>
@@ -20,7 +20,7 @@ export default function Home() {
               </div>
             </div>
             <div className="carousel-item">
-              <img className="w-100" src="/assets/img/carousel-2.jpg" alt="Image" />
+              <img className="w-100" src="/assets/img/AZWA2.jpg" alt="Image" />
               <div className="carousel-caption d-flex flex-column align-items-center justify-content-center">
                 <div className="p-3" style={{ maxWidth: 700 }}>
                   <h6 className="section-title text-white text-uppercase mb-3 animated slideInDown">Luxury Living</h6>
